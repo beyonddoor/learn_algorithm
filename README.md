@@ -1,2 +1,2 @@
-# learn_algrithm
-learning algrithm
+# learn_algorithm
+learning algorithm
