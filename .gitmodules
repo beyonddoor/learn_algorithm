@@ -1,3 +1,6 @@
 [submodule "leetcode"]
 	path = leetcode
 	url = git@github.com:beyonddoor/leetcode.git
+[submodule "algs4"]
+	path = algs4
+	url = git@github.com:beyonddoor/algs4.git
